@@ -1,0 +1,1063 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Starter\\src\\Adesso.Dapr.Core.Starter.Abstraction\\Adesso.Dapr.Core.Starter.Abstraction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\Adesso.Dapr.Core.Api.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\Adesso.Dapr.Core.Api.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.Api.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\Adesso.Dapr.Core.Api.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\Adesso.Dapr.Core.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\Adesso.Dapr.Core.Api.csproj",
+        "projectName": "Adesso.Dapr.Core.Api",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\Adesso.Dapr.Core.Api.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\Adesso.Dapr.Core.Api.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api.Abstraction\\Adesso.Dapr.Core.Api.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.Common.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.2.4, )"
+            },
+            "NLocalizator": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Newtonsoft.Json.Schema": {
+              "target": "Package",
+              "version": "[3.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
+        "projectName": "Adesso.Dapr.Core.Common",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.CQRS.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
+        "projectName": "Adesso.Dapr.Core.CQRS",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MiniUow": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.Domain.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
+        "projectName": "Adesso.Dapr.Core.Domain",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.InfoAccessor.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\Adesso.Dapr.Core.InfoAccessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\Adesso.Dapr.Core.InfoAccessor.csproj",
+        "projectName": "Adesso.Dapr.Core.InfoAccessor",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\Adesso.Dapr.Core.InfoAccessor.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor.Abstraction\\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.IOC.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Starter\\src\\Adesso.Dapr.Core.Starter.Abstraction\\Adesso.Dapr.Core.Starter.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Starter\\src\\Adesso.Dapr.Core.Starter.Abstraction\\Adesso.Dapr.Core.Starter.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.Starter.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Starter\\src\\Adesso.Dapr.Core.Starter.Abstraction\\Adesso.Dapr.Core.Starter.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Starter\\src\\Adesso.Dapr.Core.Starter.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\Adesso.Dapr.Core.Api.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Api\\src\\Adesso.Dapr.Core.Api\\Adesso.Dapr.Core.Api.csproj"
+              },
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\Adesso.Dapr.Core.InfoAccessor.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\InfoAccessor\\src\\Adesso.Dapr.Core.InfoAccessor\\Adesso.Dapr.Core.InfoAccessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.IO.RecyclableMemoryStream": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.UnitOfWork.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MiniUow": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
+        "projectName": "Adesso.Dapr.Core.Validation.Abstraction",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ccakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

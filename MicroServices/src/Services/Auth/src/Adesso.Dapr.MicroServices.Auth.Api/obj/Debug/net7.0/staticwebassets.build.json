@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JaAOKv7AEpJJyBjUWdJTQwkTMORHxZF2Bdc69w8g+Gk=",
+  "Source": "Adesso.Dapr.MicroServices.Auth.Api",
+  "BasePath": "_content/Adesso.Dapr.MicroServices.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

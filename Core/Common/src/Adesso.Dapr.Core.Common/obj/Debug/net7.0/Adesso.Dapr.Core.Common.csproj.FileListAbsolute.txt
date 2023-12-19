@@ -1,0 +1,15 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\bin\Debug\net7.0\Adesso.Dapr.Core.Common.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\bin\Debug\net7.0\Adesso.Dapr.Core.Common.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\bin\Debug\net7.0\Adesso.Dapr.Core.Common.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.csproj.CopyComplete
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Common.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\Adesso.Dapr.Core.Common.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Common.dll

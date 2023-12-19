@@ -1,0 +1,12 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.IOC.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.IOC.Abstraction.dll

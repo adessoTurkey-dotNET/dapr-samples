@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Adesso.Dapr.Core.Starter.Abstraction\Adesso.Dapr.Core.Starter.Abstraction.csproj" />
+    <ProjectReference Include="..\Adesso.Dapr.Core.Starter.Api\Adesso.Dapr.Core.Starter.Api.csproj" />
+  </ItemGroup>
+
+</Project>

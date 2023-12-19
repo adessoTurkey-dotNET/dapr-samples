@@ -1,0 +1,15 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.IOC.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj.CopyComplete
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.UnitOfWork.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.UnitOfWork.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.UnitOfWork.Abstraction.dll

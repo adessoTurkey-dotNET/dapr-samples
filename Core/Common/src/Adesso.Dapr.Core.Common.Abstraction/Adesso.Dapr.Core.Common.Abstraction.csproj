@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+		<PackageReference Include="LinqKit" Version="1.2.4" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="NLocalizator" Version="1.0.7" />
+    <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.14" />
+	</ItemGroup>
+
+</Project>

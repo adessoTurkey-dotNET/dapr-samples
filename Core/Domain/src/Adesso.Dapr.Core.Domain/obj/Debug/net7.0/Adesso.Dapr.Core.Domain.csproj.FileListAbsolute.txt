@@ -1,0 +1,17 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Domain.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Domain.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Domain.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Domain.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.csproj.CopyComplete
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\Adesso.Dapr.Core.Domain.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Domain\src\Adesso.Dapr.Core.Domain\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Domain.dll

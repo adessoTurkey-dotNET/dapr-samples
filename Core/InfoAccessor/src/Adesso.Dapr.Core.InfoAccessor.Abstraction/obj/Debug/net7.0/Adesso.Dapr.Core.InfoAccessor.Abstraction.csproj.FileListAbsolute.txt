@@ -1,0 +1,17 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj.CopyComplete
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.InfoAccessor.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.InfoAccessor.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.InfoAccessor.Abstraction.dll

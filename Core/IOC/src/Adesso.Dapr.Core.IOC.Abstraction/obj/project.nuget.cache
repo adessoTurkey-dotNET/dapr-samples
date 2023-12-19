@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I64g/NW/58v0IyEtEiD6AnXH2hjjkzAs5X6vaa/3/QmdQI+NuNStG8wCF6Y4cgiXBZ6egxReWr/oJoKYJ6yqUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

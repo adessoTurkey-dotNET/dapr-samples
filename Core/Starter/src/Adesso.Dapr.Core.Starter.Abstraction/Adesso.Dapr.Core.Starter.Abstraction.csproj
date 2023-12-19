@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Api\src\Adesso.Dapr.Core.Api\Adesso.Dapr.Core.Api.csproj" />
+    <ProjectReference Include="..\..\..\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor\Adesso.Dapr.Core.InfoAccessor.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" Version="2.3.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+   <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+</Project>

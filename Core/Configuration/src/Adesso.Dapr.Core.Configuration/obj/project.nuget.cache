@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5jCd0xyQsHkUTQeBvv1KDhO+W9GRn+isupQ+9qJI4hUxa0sZDXlZ1i6dpGbohFp/vpqqLBNLcJTs2NIt0K2AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
