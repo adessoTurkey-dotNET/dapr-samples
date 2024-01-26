@@ -5,10 +5,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["Secrets/Adesso.Dapr.SecretManagement/Adesso.Dapr.SecretManagement.csproj", "Secrets/Adesso.Dapr.SecretManagement/"]
-RUN dotnet restore "Secrets/Adesso.Dapr.SecretManagement/Adesso.Dapr.SecretManagement.csproj"
+COPY ["Secrets/src/Adesso.Dapr.SecretManagement/Adesso.Dapr.SecretManagement.csproj", "Secrets/src/Adesso.Dapr.SecretManagement/"]
+RUN dotnet restore "Secrets/src/Adesso.Dapr.SecretManagement/Adesso.Dapr.SecretManagement.csproj"
 COPY . .
-WORKDIR "/src/Secrets/Adesso.Dapr.SecretManagement"
+WORKDIR "/src/Secrets/src/Adesso.Dapr.SecretManagement"
 RUN dotnet build "Adesso.Dapr.SecretManagement.csproj" -c Release -o /app/build
 
 FROM build AS publish

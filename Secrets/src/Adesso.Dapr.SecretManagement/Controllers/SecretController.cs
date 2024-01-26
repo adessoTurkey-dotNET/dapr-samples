@@ -1,7 +1,7 @@
-using DaprSecretManagement.Services;
+using Adesso.Dapr.SecretManagement.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DaprSecretManagement.Controllers;
+namespace Adesso.Dapr.SecretManagement.Controllers;
 
 [ApiController]
 [Route("[controller]")]

@@ -1,7 +1,7 @@
+using Adesso.Dapr.SecretManagement.Models;
 using Dapr.Client;
-using DaprSecretManagement.Models;
 
-namespace DaprSecretManagement.Services;
+namespace Adesso.Dapr.SecretManagement.Services;
 
 public class SecretService : ISecretService
 {
