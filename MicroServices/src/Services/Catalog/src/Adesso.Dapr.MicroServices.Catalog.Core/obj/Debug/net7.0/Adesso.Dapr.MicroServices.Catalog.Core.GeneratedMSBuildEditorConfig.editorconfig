@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adesso.Dapr.MicroServices.Catalog.Core
-build_property.ProjectDir = C:\Users\ccakir\Desktop\DEV\OKR\dapr\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Core\
+build_property.ProjectDir = /Users/eg/src/adesso/okr/2023Q4/dapr-samples/MicroServices/src/Services/Catalog/src/Adesso.Dapr.MicroServices.Catalog.Core/

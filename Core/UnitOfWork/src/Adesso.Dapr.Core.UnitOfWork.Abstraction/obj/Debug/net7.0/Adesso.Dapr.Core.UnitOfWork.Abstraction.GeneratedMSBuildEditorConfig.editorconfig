@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adesso.Dapr.Core.UnitOfWork.Abstraction
-build_property.ProjectDir = C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\
+build_property.ProjectDir = /Users/eg/src/adesso/okr/2023Q4/dapr-samples/Core/UnitOfWork/src/Adesso.Dapr.Core.UnitOfWork.Abstraction/
