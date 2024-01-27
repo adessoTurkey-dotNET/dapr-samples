@@ -1,0 +1,12 @@
+C:\Users\ftumer\source\repos\Actors\Actors\bin\Debug\net8.0\Actors.deps.json
+C:\Users\ftumer\source\repos\Actors\Actors\bin\Debug\net8.0\Actors.dll
+C:\Users\ftumer\source\repos\Actors\Actors\bin\Debug\net8.0\Actors.pdb
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.csproj.AssemblyReference.cache
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.AssemblyInfoInputs.cache
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.AssemblyInfo.cs
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.csproj.CoreCompileInputs.cache
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.dll
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\refint\Actors.dll
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\Actors.pdb
+C:\Users\ftumer\source\repos\Actors\Actors\obj\Debug\net8.0\ref\Actors.dll
