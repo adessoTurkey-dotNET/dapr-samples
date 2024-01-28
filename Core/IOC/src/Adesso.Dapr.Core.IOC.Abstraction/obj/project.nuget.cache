@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I64g/NW/58v0IyEtEiD6AnXH2hjjkzAs5X6vaa/3/QmdQI+NuNStG8wCF6Y4cgiXBZ6egxReWr/oJoKYJ6yqUg==",
+  "dgSpecHash": "VFM59/NFJA9HlDMmfe4IPMm0/YWWK/CkXE+7nSLSZ6GGUC41Y5jUtLlTWlkFGFj+uS92WcAehF8b1uyvPXLl1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
@@ -11,7 +11,10 @@
     "C:\\Users\\ccakir\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

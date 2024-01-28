@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {}
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.Common.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,23 +72,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
         "projectName": "Adesso.Dapr.Core.Common",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +123,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
               }
             }
           }
@@ -135,23 +149,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.CQRS.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -204,23 +232,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
         "projectName": "Adesso.Dapr.Core.CQRS",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\Adesso.Dapr.Core.CQRS.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,20 +283,20 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj"
               },
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj"
               },
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
               },
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj"
               },
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj"
               }
             }
           }
@@ -309,23 +351,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.Domain.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -346,8 +402,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
               }
             }
           }
@@ -372,23 +428,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
         "projectName": "Adesso.Dapr.Core.Domain",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -409,8 +479,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain.Abstraction\\Adesso.Dapr.Core.Domain.Abstraction.csproj"
               }
             }
           }
@@ -435,23 +505,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.IOC.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -504,23 +588,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.UnitOfWork.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -541,8 +639,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\IOC\\src\\Adesso.Dapr.Core.IOC.Abstraction\\Adesso.Dapr.Core.IOC.Abstraction.csproj"
               }
             }
           }
@@ -573,23 +671,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
         "projectName": "Adesso.Dapr.Core.Validation.Abstraction",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -610,8 +722,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
+              "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common.Abstraction\\Adesso.Dapr.Core.Common.Abstraction.csproj"
               }
             }
           }
@@ -642,12 +754,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

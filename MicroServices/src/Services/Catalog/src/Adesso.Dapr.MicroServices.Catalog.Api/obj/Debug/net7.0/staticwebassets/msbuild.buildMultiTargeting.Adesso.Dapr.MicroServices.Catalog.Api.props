@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Adesso.Dapr.MicroServices.Catalog.Api.props" />
+</Project>

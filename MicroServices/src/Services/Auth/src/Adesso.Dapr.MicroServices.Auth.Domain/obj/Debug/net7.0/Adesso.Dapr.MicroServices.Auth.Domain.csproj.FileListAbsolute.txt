@@ -1,0 +1,12 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.sourcelink.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\refint\Adesso.Dapr.MicroServices.Auth.Domain.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Auth.Domain.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\obj\Debug\net7.0\ref\Adesso.Dapr.MicroServices.Auth.Domain.dll

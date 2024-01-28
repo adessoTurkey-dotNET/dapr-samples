@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4wDuvQzZAkflbPj+e/t8jBkow9UF5eKSMzLIOZTr2/ny9+T1VZ8SwzllOxmq+59gEREtO9TeXWdO5/ITyM2Ag==",
+  "dgSpecHash": "QG0qevv5QJLYmGcblGseoTsNlDp6lHLgYwg9YyTiaf/vT6QfpMgzbEh+qIqLbs8aTO4WWF8N7B5DQKGO+GtKtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Common\\src\\Adesso.Dapr.Core.Common\\Adesso.Dapr.Core.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\linqkit\\1.2.4\\linqkit.1.2.4.nupkg.sha512",
@@ -35,7 +35,10 @@
     "C:\\Users\\ccakir\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.6.0\\system.security.cryptography.protecteddata.4.6.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.security.permissions\\4.6.0\\system.security.permissions.4.6.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

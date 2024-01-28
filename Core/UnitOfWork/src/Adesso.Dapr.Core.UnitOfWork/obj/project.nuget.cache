@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uGVBS7JlRavTPz5LwzxdoiZ5AeMVGlsof0WfRnruJ+Hz5GPfsboHlgoo98+4NaURdDpQDd52r9xTPV1EU7B0yA==",
+  "dgSpecHash": "esU+R2G16NjxjqzkhTn22vg+R8inWutSE3HghWbkcJNGBB4POUZnTVLZIN11v5zB5i2zpPAVGar4xyAsRArOdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork\\Adesso.Dapr.Core.UnitOfWork.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork\\Adesso.Dapr.Core.UnitOfWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -88,7 +88,10 @@
     "C:\\Users\\ccakir\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

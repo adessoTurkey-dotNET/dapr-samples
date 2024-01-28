@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "unyy06PWaAOkmzNY0hFHavWWSCcMV+RYB4W09eSEn7DRNjyJITvIQF0SwXaQxSKyWRdfRNYsgdpe1NNSQ0yCWA==",
+  "dgSpecHash": "HXeADII3rDyN7nzAqqtRwbcE4ZLJY3RTNeQqM3Xq/2R5RWPGmM4OyzC/fDenX3NlJ3xzSQiOXlXJK1Qx6BE1oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\MicroServices\\src\\Services\\Auth\\src\\Adesso.Dapr.MicroServices.Auth.Api\\Adesso.Dapr.MicroServices.Auth.Api.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\MicroServices\\src\\Services\\Auth\\src\\Adesso.Dapr.MicroServices.Auth.Api\\Adesso.Dapr.MicroServices.Auth.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
@@ -103,7 +103,11 @@
     "C:\\Users\\ccakir\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

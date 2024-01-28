@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oPUljuR6neqsTJjcl/UEn8+uYqpL9RJUP9IiAzn4mMlqFS62xLmyRSIMefX5nf8Vo6+NlJX3PW8sJ9RQBD4kSg==",
+  "dgSpecHash": "lrwegWtvDD8MzpvFVPH2dw/xdNlWfj163V5t5hEatHI0WiovQ7ALFVwWEnlMtJ0xaxCBjml6vh/VeNamzFcLbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore.Abstraction\\Adesso.Dapr.Core.EFCore.Abstraction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore.Abstraction\\Adesso.Dapr.Core.EFCore.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.sourcelink.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.EFCore.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.EFCore.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.EFCore.Abstraction.dll

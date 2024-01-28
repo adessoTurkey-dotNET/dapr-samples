@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bSwxJ71ChBOeVlllij0DuJNW5GyyPRuK16rnXXPMkdKQxAhwFNVsupjcsE2QlfXyRMlT8yF/33gRoPPX1kl3GQ==",
+  "dgSpecHash": "voJcc+qheB/XqGSU65GYEbkD2qrLN+B2M5l7lwZC2I1s2nrMi6zr3DDGCCcDgprqxRjsaobQ6A+Mub55uGkKzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\UnitOfWork\\src\\Adesso.Dapr.Core.UnitOfWork.Abstraction\\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.3\\microsoft.entityframeworkcore.2.1.3.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.1.3\\microsoft.entityframeworkcore.abstractions.2.1.3.nupkg.sha512",
@@ -92,7 +92,10 @@
     "C:\\Users\\ccakir\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\ccakir\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

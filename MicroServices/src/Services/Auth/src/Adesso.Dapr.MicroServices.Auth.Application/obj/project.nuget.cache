@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ioaU3OnjKyDn+SvEFMe5sd3lhs5db/gxUbCkpCTtoMTWvEzpbbBlkJIr6MoYk6rUw64ZhG5+AM+sVMOLfggA/Q==",
+  "dgSpecHash": "o1p0lyKGCUAVxptHc/wQrkP8HvEVd++Cqt4NLkuHY5DefNB5oZXnyLUYxcg8jmDAGPhXqAGZm9FsaRV8IfEkgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\MicroServices\\src\\Services\\Auth\\src\\Adesso.Dapr.MicroServices.Auth.Application\\Adesso.Dapr.MicroServices.Auth.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\MicroServices\\src\\Services\\Auth\\src\\Adesso.Dapr.MicroServices.Auth.Application\\Adesso.Dapr.MicroServices.Auth.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
