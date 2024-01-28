@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Adesso.Dapr.MicroServices.Auth.Application/1.0.0": {
+        "runtime": {
+          "Adesso.Dapr.MicroServices.Auth.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adesso.Dapr.MicroServices.Auth.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

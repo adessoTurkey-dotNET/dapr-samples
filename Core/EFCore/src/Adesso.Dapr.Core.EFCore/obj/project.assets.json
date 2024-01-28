@@ -3967,11 +3967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\Adesso.Dapr.Core.EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\Adesso.Dapr.Core.EFCore.csproj",
       "projectName": "Adesso.Dapr.Core.EFCore",
-      "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\Adesso.Dapr.Core.EFCore.csproj",
+      "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\Adesso.Dapr.Core.EFCore.csproj",
       "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\obj\\",
+      "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\EFCore\\src\\Adesso.Dapr.Core.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3992,8 +3992,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
-              "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
+            "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Domain\\src\\Adesso.Dapr.Core.Domain\\Adesso.Dapr.Core.Domain.csproj"
             }
           }
         }
@@ -4036,13 +4036,39 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

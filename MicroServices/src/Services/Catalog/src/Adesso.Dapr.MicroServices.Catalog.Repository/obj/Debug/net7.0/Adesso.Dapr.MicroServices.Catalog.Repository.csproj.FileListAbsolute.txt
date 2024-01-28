@@ -1,0 +1,12 @@
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\bin\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.sourcelink.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\refint\Adesso.Dapr.MicroServices.Catalog.Repository.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\Adesso.Dapr.MicroServices.Catalog.Repository.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\obj\Debug\net7.0\ref\Adesso.Dapr.MicroServices.Catalog.Repository.dll

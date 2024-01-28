@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BxMDOl/v/gxp1OR5Q6xvV46b2zb/6MEZi4Rm7ODlmzY=",
+  "Source": "Adesso.Dapr.MicroServices.Catalog.Api",
+  "BasePath": "_content/Adesso.Dapr.MicroServices.Catalog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

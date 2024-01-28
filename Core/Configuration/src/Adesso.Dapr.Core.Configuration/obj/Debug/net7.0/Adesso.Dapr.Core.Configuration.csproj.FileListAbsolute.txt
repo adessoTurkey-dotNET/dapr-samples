@@ -10,3 +10,16 @@ C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Configuration\src\Adesso.Dapr.Core.Con
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Configuration.dll
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.pdb
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Configuration.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\bin\Debug\net7.0\Adesso.Dapr.Core.Configuration.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\bin\Debug\net7.0\Adesso.Dapr.Core.Configuration.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\bin\Debug\net7.0\Adesso.Dapr.Core.Configuration.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.sourcelink.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Configuration.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\Adesso.Dapr.Core.Configuration.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Configuration\src\Adesso.Dapr.Core.Configuration\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Configuration.dll

@@ -10,3 +10,16 @@ C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common.Abs
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Common.Abstraction.dll
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
 C:\Users\ccakir\Desktop\DEV\OKR\dapr\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.deps.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\bin\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.csproj.AssemblyReference.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.AssemblyInfo.cs
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.sourcelink.json
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\refint\Adesso.Dapr.Core.Common.Abstraction.dll
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\Adesso.Dapr.Core.Common.Abstraction.pdb
+C:\Users\ccakir\Desktop\DEV\OKR\dapr\dapr-samples\Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\obj\Debug\net7.0\ref\Adesso.Dapr.Core.Common.Abstraction.dll

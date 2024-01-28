@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj": {}
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj": {
+    "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj",
+        "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj",
         "projectName": "Adesso.Dapr.Core.Configuration",
-        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj",
+        "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\Adesso.Dapr.Core.Configuration.csproj",
         "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\obj\\",
+        "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Configuration\\src\\Adesso.Dapr.Core.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,12 +76,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

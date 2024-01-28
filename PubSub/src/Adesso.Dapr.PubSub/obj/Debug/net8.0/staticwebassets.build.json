@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QnXG4LQQ8E3cO+O3MunypjwljLFj357dqY9l2zR/pb0=",
+  "Source": "Adesso.Dapr.PubSub",
+  "BasePath": "_content/Adesso.Dapr.PubSub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

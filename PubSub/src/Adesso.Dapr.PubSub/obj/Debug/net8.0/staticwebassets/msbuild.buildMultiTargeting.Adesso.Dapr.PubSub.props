@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Adesso.Dapr.PubSub.props" />
+</Project>

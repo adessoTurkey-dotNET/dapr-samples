@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SvmPlSj/vhvNYBsMJikkt+TK6FpNPbD1YAgPTz/DfT2COi4vtH4yu5RIBfu4TUdDxSYwyLJGrDXyExzC+BOGcA==",
+  "dgSpecHash": "9dNvt97fb/GpuD4bnYpgrkBsSSUN/1Cvz61Twhzlap75cjrJpePvWGpX+ryUsfrH1K3aoTXwbbaZpA+UsvmoCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\CQRS\\src\\Adesso.Dapr.Core.CQRS.Abstraction\\Adesso.Dapr.Core.CQRS.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccakir\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\ccakir\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\ccakir\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ccakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

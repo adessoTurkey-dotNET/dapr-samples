@@ -1,0 +1,29 @@
+version: '3.4'
+ 
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    environment:
+      RABBITMQ_DEFAULT_USER: "user"
+      RABBITMQ_DEFAULT_PASS: "password"
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+ 
+  webapi:
+    build:
+      context: ../src/Adesso.Dapr.PubSub
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+      - rabbitmq
+ 
+  dapr:
+    image: daprio/dapr
+    command: "./daprd -app-id adesso-dapr-pubsub -app-port 5000 -components-path ./components"
+    volumes:
+      - "../src/Adesso.Dapr.PubSub/components:/components"
+    network_mode: "service:webapi"
+    depends_on:
+      - webapi

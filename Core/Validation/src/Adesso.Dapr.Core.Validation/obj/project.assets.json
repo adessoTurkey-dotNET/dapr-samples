@@ -1937,11 +1937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\Adesso.Dapr.Core.Validation.csproj",
+      "projectUniqueName": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\Adesso.Dapr.Core.Validation.csproj",
       "projectName": "Adesso.Dapr.Core.Validation",
-      "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\Adesso.Dapr.Core.Validation.csproj",
+      "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\Adesso.Dapr.Core.Validation.csproj",
       "packagesPath": "C:\\Users\\ccakir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\obj\\",
+      "outputPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1962,8 +1962,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
-              "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj"
+            "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\ccakir\\Desktop\\DEV\\OKR\\dapr\\dapr-samples\\Core\\Validation\\src\\Adesso.Dapr.Core.Validation.Abstraction\\Adesso.Dapr.Core.Validation.Abstraction.csproj"
             }
           }
         }
@@ -2006,12 +2006,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
