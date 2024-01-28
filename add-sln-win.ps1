@@ -37,6 +37,8 @@ dotnet new webapi -n Adesso.Dapr.MicroServices.Catalog.Api
 
 
 dotnet sln add .\PubSub\src\Adesso.Dapr.PubSub\Adesso.Dapr.PubSub.csproj
+dotnet sln add .\Cryptography\src\Adesso.Dapr.Crypt\Adesso.Dapr.Crypt.csproj
+
  dotnet sln add .\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Api\Adesso.Dapr.MicroServices.Catalog.Api.csproj
  dotnet sln add .\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Application\Adesso.Dapr.MicroServices.Catalog.Application.csproj
  dotnet sln add .\MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Core\Adesso.Dapr.MicroServices.Catalog.Core.csproj

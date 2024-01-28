@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adesso.Dapr.Core.CQRS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc044fcba6164d46d9a8f8b5d9e4b8c8ac93c8f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e564a1fe972c176b273654ad6602804fc539be9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adesso.Dapr.Core.CQRS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adesso.Dapr.Core.CQRS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
