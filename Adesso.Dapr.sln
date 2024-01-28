@@ -9,87 +9,87 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{9E4CD85B-C5E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CB0B2889-DB3B-4E31-B20A-3D163E960BB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Api", "Core\Api\src\Adesso.Dapr.Core.Api\Adesso.Dapr.Core.Api.csproj", "{E5757F51-301D-4059-B3F4-45CA7B3D9806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Api", "Core\Api\src\Adesso.Dapr.Core.Api\Adesso.Dapr.Core.Api.csproj", "{E5757F51-301D-4059-B3F4-45CA7B3D9806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Api.Abstraction", "Core\Api\src\Adesso.Dapr.Core.Api.Abstraction\Adesso.Dapr.Core.Api.Abstraction.csproj", "{87D9B372-3970-4A88-A6A8-DBA690BCB3DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Api.Abstraction", "Core\Api\src\Adesso.Dapr.Core.Api.Abstraction\Adesso.Dapr.Core.Api.Abstraction.csproj", "{87D9B372-3970-4A88-A6A8-DBA690BCB3DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{DD5F76F8-31DA-49E4-80C7-C7D7878F28B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E781FD25-6D20-4869-AE83-DB001234C344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Common.Abstraction", "Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\Adesso.Dapr.Core.Common.Abstraction.csproj", "{BBC12CAA-59A7-46DF-A6CC-440B9B11C07C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Common.Abstraction", "Core\Common\src\Adesso.Dapr.Core.Common.Abstraction\Adesso.Dapr.Core.Common.Abstraction.csproj", "{BBC12CAA-59A7-46DF-A6CC-440B9B11C07C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2442A12B-FD6E-4A83-AE44-47C85B52D566}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EB4FD9A9-739B-4AEB-8584-540CA854E4C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Domain.Abstraction", "Core\Domain\src\Adesso.Dapr.Core.Domain.Abstraction\Adesso.Dapr.Core.Domain.Abstraction.csproj", "{E1E02140-7CAD-4823-916C-07D80ABCE347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Domain.Abstraction", "Core\Domain\src\Adesso.Dapr.Core.Domain.Abstraction\Adesso.Dapr.Core.Domain.Abstraction.csproj", "{E1E02140-7CAD-4823-916C-07D80ABCE347}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EFCore", "EFCore", "{B98A5A9D-CB25-4769-A2BD-0C8BB874A521}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4FE2A4B7-8FDB-4585-BAE4-8473C61E85DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.EFCore.Abstraction", "Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\Adesso.Dapr.Core.EFCore.Abstraction.csproj", "{E6090F48-408A-4C76-A395-D1A105D6D046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.EFCore.Abstraction", "Core\EFCore\src\Adesso.Dapr.Core.EFCore.Abstraction\Adesso.Dapr.Core.EFCore.Abstraction.csproj", "{E6090F48-408A-4C76-A395-D1A105D6D046}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC", "IOC", "{1F25A685-FEC6-4301-82B4-B0C9EF85D8E7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0455EEAF-0628-4BE4-B16A-A930DB2A6041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.IOC.Abstraction", "Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\Adesso.Dapr.Core.IOC.Abstraction.csproj", "{74E76F63-1E36-42E5-B039-1D5A7266140E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.IOC.Abstraction", "Core\IOC\src\Adesso.Dapr.Core.IOC.Abstraction\Adesso.Dapr.Core.IOC.Abstraction.csproj", "{74E76F63-1E36-42E5-B039-1D5A7266140E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Starter", "Starter", "{EA8A5858-6324-461B-91AB-490DF8FCCCA4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{474481B8-05BD-406C-B398-462EC73D6D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Starter.Abstraction", "Core\Starter\src\Adesso.Dapr.Core.Starter.Abstraction\Adesso.Dapr.Core.Starter.Abstraction.csproj", "{B079549F-4043-4FED-A642-1B9AC5EE7E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Starter.Abstraction", "Core\Starter\src\Adesso.Dapr.Core.Starter.Abstraction\Adesso.Dapr.Core.Starter.Abstraction.csproj", "{B079549F-4043-4FED-A642-1B9AC5EE7E2F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitOfWork", "UnitOfWork", "{E17187B8-09F7-41D2-BBC9-200CCFB2485B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E49B9147-3AD7-4294-830B-B535F33E3187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.UnitOfWork.Abstraction", "Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj", "{19ADC259-AE20-4A2E-83D4-84D7B357594E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.UnitOfWork.Abstraction", "Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork.Abstraction\Adesso.Dapr.Core.UnitOfWork.Abstraction.csproj", "{19ADC259-AE20-4A2E-83D4-84D7B357594E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Validation", "Validation", "{FB251AAE-A284-46E2-9EC6-D9FCD4605BE7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0479446D-50AE-4A79-93C7-7FECED77B4C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Validation.Abstraction", "Core\Validation\src\Adesso.Dapr.Core.Validation.Abstraction\Adesso.Dapr.Core.Validation.Abstraction.csproj", "{39C551FB-157B-42F6-A904-5D8D49A42F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Validation.Abstraction", "Core\Validation\src\Adesso.Dapr.Core.Validation.Abstraction\Adesso.Dapr.Core.Validation.Abstraction.csproj", "{39C551FB-157B-42F6-A904-5D8D49A42F4A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS", "CQRS", "{FAFA8C14-A5D7-476D-8B0B-A6FA9356FE7E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{071D020D-BA0C-46CD-AB6C-4F240D168AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.CQRS.Abstraction", "Core\CQRS\src\Adesso.Dapr.Core.CQRS.Abstraction\Adesso.Dapr.Core.CQRS.Abstraction.csproj", "{E04CCD95-9822-4191-9A91-2DED03058BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.CQRS.Abstraction", "Core\CQRS\src\Adesso.Dapr.Core.CQRS.Abstraction\Adesso.Dapr.Core.CQRS.Abstraction.csproj", "{E04CCD95-9822-4191-9A91-2DED03058BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.CQRS", "Core\CQRS\src\Adesso.Dapr.Core.CQRS\Adesso.Dapr.Core.CQRS.csproj", "{3D3C1ED8-A54A-4AAD-988F-DF50B18C0C27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.CQRS", "Core\CQRS\src\Adesso.Dapr.Core.CQRS\Adesso.Dapr.Core.CQRS.csproj", "{3D3C1ED8-A54A-4AAD-988F-DF50B18C0C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Domain", "Core\Domain\src\Adesso.Dapr.Core.Domain\Adesso.Dapr.Core.Domain.csproj", "{89AD4BBD-9AD7-46D0-A2FF-A13ED2128790}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Domain", "Core\Domain\src\Adesso.Dapr.Core.Domain\Adesso.Dapr.Core.Domain.csproj", "{89AD4BBD-9AD7-46D0-A2FF-A13ED2128790}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.EFCore", "Core\EFCore\src\Adesso.Dapr.Core.EFCore\Adesso.Dapr.Core.EFCore.csproj", "{F8AE7768-D15A-410C-80D5-11D0036902B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.EFCore", "Core\EFCore\src\Adesso.Dapr.Core.EFCore\Adesso.Dapr.Core.EFCore.csproj", "{F8AE7768-D15A-410C-80D5-11D0036902B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.IOC", "Core\IOC\src\Adesso.Dapr.Core.IOC\Adesso.Dapr.Core.IOC.csproj", "{F899C729-F053-4305-9597-60A45F28DCF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.IOC", "Core\IOC\src\Adesso.Dapr.Core.IOC\Adesso.Dapr.Core.IOC.csproj", "{F899C729-F053-4305-9597-60A45F28DCF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Starter", "Core\Starter\src\Adesso.Dapr.Core.Starter\Adesso.Dapr.Core.Starter.csproj", "{D880E882-F062-456F-A88B-BA97E088528D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Starter", "Core\Starter\src\Adesso.Dapr.Core.Starter\Adesso.Dapr.Core.Starter.csproj", "{D880E882-F062-456F-A88B-BA97E088528D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Starter.Api", "Core\Starter\src\Adesso.Dapr.Core.Starter.Api\Adesso.Dapr.Core.Starter.Api.csproj", "{F4C0626D-963B-4B1A-93E8-61B98EC75871}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Starter.Api", "Core\Starter\src\Adesso.Dapr.Core.Starter.Api\Adesso.Dapr.Core.Starter.Api.csproj", "{F4C0626D-963B-4B1A-93E8-61B98EC75871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.UnitOfWork", "Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork\Adesso.Dapr.Core.UnitOfWork.csproj", "{1BE34E02-AE2F-47B6-BA3E-19157D7217D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.UnitOfWork", "Core\UnitOfWork\src\Adesso.Dapr.Core.UnitOfWork\Adesso.Dapr.Core.UnitOfWork.csproj", "{1BE34E02-AE2F-47B6-BA3E-19157D7217D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Validation", "Core\Validation\src\Adesso.Dapr.Core.Validation\Adesso.Dapr.Core.Validation.csproj", "{B819411B-105C-47CB-930E-D6C3BA642324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Validation", "Core\Validation\src\Adesso.Dapr.Core.Validation\Adesso.Dapr.Core.Validation.csproj", "{B819411B-105C-47CB-930E-D6C3BA642324}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{F8606E2C-2DF9-4E2F-A746-FF6E3A4B2518}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B43855D5-34E9-48A1-8618-DBD72C85C28B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.Configuration", "Core\Configuration\src\Adesso.Dapr.Core.Configuration\Adesso.Dapr.Core.Configuration.csproj", "{AA485E40-0E8E-476E-BFFA-A7A3A91370CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.Configuration", "Core\Configuration\src\Adesso.Dapr.Core.Configuration\Adesso.Dapr.Core.Configuration.csproj", "{AA485E40-0E8E-476E-BFFA-A7A3A91370CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfoAccessor", "InfoAccessor", "{052CD2D5-2DA7-4861-A14C-139C74674C06}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0AAFBA67-C0E4-46BE-AE85-85C76D741F85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.InfoAccessor", "Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor\Adesso.Dapr.Core.InfoAccessor.csproj", "{D633ED12-751B-4659-82E9-37F6297E758F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.InfoAccessor", "Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor\Adesso.Dapr.Core.InfoAccessor.csproj", "{D633ED12-751B-4659-82E9-37F6297E758F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.Core.InfoAccessor.Abstraction", "Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj", "{62D4951D-55FE-45EA-A3FE-8244680D4AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.Core.InfoAccessor.Abstraction", "Core\InfoAccessor\src\Adesso.Dapr.Core.InfoAccessor.Abstraction\Adesso.Dapr.Core.InfoAccessor.Abstraction.csproj", "{62D4951D-55FE-45EA-A3FE-8244680D4AA2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroServices", "MicroServices", "{B4771D50-639E-4AFF-9E1E-2232CC1559C6}"
 EndProject
@@ -101,33 +101,47 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth", "Auth", "{FACF45BB-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8B2641A-2901-46FF-BD3A-37C1C9FB47AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Abstraction", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Abstraction\Adesso.Dapr.MicroServices.Auth.Abstraction.csproj", "{C5706070-D2FC-488D-A0DA-4D1E3F23CC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Abstraction", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Abstraction\Adesso.Dapr.MicroServices.Auth.Abstraction.csproj", "{C5706070-D2FC-488D-A0DA-4D1E3F23CC80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Api", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Api\Adesso.Dapr.MicroServices.Auth.Api.csproj", "{6A4FC20B-513B-43FC-9AFB-CC90F00079A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Api", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Api\Adesso.Dapr.MicroServices.Auth.Api.csproj", "{6A4FC20B-513B-43FC-9AFB-CC90F00079A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Application", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Application\Adesso.Dapr.MicroServices.Auth.Application.csproj", "{7FAED0D4-F6D5-43D5-AAF7-44953CD0A36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Application", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Application\Adesso.Dapr.MicroServices.Auth.Application.csproj", "{7FAED0D4-F6D5-43D5-AAF7-44953CD0A36F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Core", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Core\Adesso.Dapr.MicroServices.Auth.Core.csproj", "{E831C14A-4466-4786-ABEB-770ED0BEB886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Core", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Core\Adesso.Dapr.MicroServices.Auth.Core.csproj", "{E831C14A-4466-4786-ABEB-770ED0BEB886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Domain", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\Adesso.Dapr.MicroServices.Auth.Domain.csproj", "{8EEC6F01-F0C5-4250-9117-4797160F027E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Domain", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Domain\Adesso.Dapr.MicroServices.Auth.Domain.csproj", "{8EEC6F01-F0C5-4250-9117-4797160F027E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Auth.Repository", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Repository\Adesso.Dapr.MicroServices.Auth.Repository.csproj", "{CC1D6716-43FD-406D-BA9E-A86D938E0982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Auth.Repository", "MicroServices\src\Services\Auth\src\Adesso.Dapr.MicroServices.Auth.Repository\Adesso.Dapr.MicroServices.Auth.Repository.csproj", "{CC1D6716-43FD-406D-BA9E-A86D938E0982}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{BFA80EA7-8F7E-4483-ABF3-DE82A25BC931}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CC7D32CB-2EE7-4909-8538-6B26A85972E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Abstraction", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Abstraction\Adesso.Dapr.MicroServices.Catalog.Abstraction.csproj", "{F0CEF730-368B-4268-8B41-D10585625972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Abstraction", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Abstraction\Adesso.Dapr.MicroServices.Catalog.Abstraction.csproj", "{F0CEF730-368B-4268-8B41-D10585625972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Api", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Api\Adesso.Dapr.MicroServices.Catalog.Api.csproj", "{065776AA-8232-400B-9F34-9931E27C0338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Api", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Api\Adesso.Dapr.MicroServices.Catalog.Api.csproj", "{065776AA-8232-400B-9F34-9931E27C0338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Application", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Application\Adesso.Dapr.MicroServices.Catalog.Application.csproj", "{A5D2FC31-6126-4AE6-8F05-8D6B1FDAEC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Application", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Application\Adesso.Dapr.MicroServices.Catalog.Application.csproj", "{A5D2FC31-6126-4AE6-8F05-8D6B1FDAEC82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Core", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Core\Adesso.Dapr.MicroServices.Catalog.Core.csproj", "{71D27C0D-F843-4690-9754-8BF00893DA87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Core", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Core\Adesso.Dapr.MicroServices.Catalog.Core.csproj", "{71D27C0D-F843-4690-9754-8BF00893DA87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Domain", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Domain\Adesso.Dapr.MicroServices.Catalog.Domain.csproj", "{C079C7F1-334C-4B7F-9072-D8DBFAAF41EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Domain", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Domain\Adesso.Dapr.MicroServices.Catalog.Domain.csproj", "{C079C7F1-334C-4B7F-9072-D8DBFAAF41EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Dapr.MicroServices.Catalog.Repository", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\Adesso.Dapr.MicroServices.Catalog.Repository.csproj", "{619B00CE-46C4-4E4D-98E8-BE1D046F93B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adesso.Dapr.MicroServices.Catalog.Repository", "MicroServices\src\Services\Catalog\src\Adesso.Dapr.MicroServices.Catalog.Repository\Adesso.Dapr.MicroServices.Catalog.Repository.csproj", "{619B00CE-46C4-4E4D-98E8-BE1D046F93B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bindings", "Bindings", "{F0F75905-DA0E-447E-AFEF-5203D959B5F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4B697EF6-8AE8-4FD1-A759-55D3D43BE0E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dapr", "dapr", "{912DBDF5-C542-4B83-AF6E-C68A8CEDF72D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "components", "components", "{96731FDF-C880-487D-BC0A-B2A4FF009138}"
+	ProjectSection(SolutionItems) = preProject
+		Bindings\src\dapr\components\httpJob.yaml = Bindings\src\dapr\components\httpJob.yaml
+		Bindings\src\dapr\components\scheduleHttpJobCron.yaml = Bindings\src\dapr\components\scheduleHttpJobCron.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleService", "Bindings\src\ScheduleService\ScheduleService.csproj", "{177C6DCA-B289-4294-8956-8E9864E83427}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DistributedLock", "DistributedLock", "{E1784B44-4301-40B0-A33D-1CCABB52E70B}"
 EndProject
@@ -151,9 +165,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E5757F51-301D-4059-B3F4-45CA7B3D9806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
