@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Adesso.Dapr.DistibutedLock.props" />
-</Project>
